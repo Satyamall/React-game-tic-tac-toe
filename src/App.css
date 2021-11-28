@@ -1,0 +1,28 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.bottom{
+  margin-top: 10px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: aqua;
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+}
+
+.reset{
+  margin-top: 10px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: lightblue;
+  color: blueviolet;
+  font-size: 20px;
+}
