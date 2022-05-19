@@ -1,9 +1,8 @@
 
-Online View of This Project Tic Tac Toe: <a href="https://heuristic-thompson-8b40b7.netlify.app/">Click Here</a>
+# Online View of This Project Tic Tac Toe: <a href="https://heuristic-thompson-8b40b7.netlify.app/">Click Here</a>
 
-
-
-
+<br>
+<br>
 
 # Getting Started with Create React App
 
